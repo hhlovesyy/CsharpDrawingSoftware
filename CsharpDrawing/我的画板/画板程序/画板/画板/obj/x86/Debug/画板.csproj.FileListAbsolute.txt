@@ -1,0 +1,52 @@
+c:\users\hua\documents\visual studio 2010\Projects\画板\画板\bin\Debug\画板.exe
+c:\users\hua\documents\visual studio 2010\Projects\画板\画板\bin\Debug\画板.pdb
+c:\users\hua\documents\visual studio 2010\Projects\画板\画板\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hua\documents\visual studio 2010\Projects\画板\画板\obj\x86\Debug\画板.Form1.resources
+c:\users\hua\documents\visual studio 2010\Projects\画板\画板\obj\x86\Debug\画板.Properties.Resources.resources
+c:\users\hua\documents\visual studio 2010\Projects\画板\画板\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hua\documents\visual studio 2010\Projects\画板\画板\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hua\documents\visual studio 2010\Projects\画板\画板\obj\x86\Debug\画板.exe
+c:\users\hua\documents\visual studio 2010\Projects\画板\画板\obj\x86\Debug\画板.pdb
+C:\Users\hua\documents\visual studio 2010\Projects\画板\画板\obj\x86\Debug\画板.LineDesign.resources
+C:\Users\hua\documents\visual studio 2010\Projects\画板\画板\obj\x86\Debug\画板.About.resources
+E:\期末考试复习\C#\画板\画板\bin\Debug\画板.exe
+E:\期末考试复习\C#\画板\画板\bin\Debug\画板.pdb
+E:\期末考试复习\C#\画板\画板\obj\x86\Debug\画板.csprojAssemblyReference.cache
+E:\期末考试复习\C#\画板\画板\obj\x86\Debug\画板.About.resources
+E:\期末考试复习\C#\画板\画板\obj\x86\Debug\画板.Form1.resources
+E:\期末考试复习\C#\画板\画板\obj\x86\Debug\画板.LineDesign.resources
+E:\期末考试复习\C#\画板\画板\obj\x86\Debug\画板.Properties.Resources.resources
+E:\期末考试复习\C#\画板\画板\obj\x86\Debug\画板.csproj.GenerateResource.cache
+E:\期末考试复习\C#\画板\画板\obj\x86\Debug\画板.csproj.CoreCompileInputs.cache
+E:\期末考试复习\C#\画板\画板\obj\x86\Debug\画板.exe
+E:\期末考试复习\C#\画板\画板\obj\x86\Debug\画板.pdb
+E:\期末考试复习\C#\画板程序\画板\画板\obj\x86\Debug\画板.csprojAssemblyReference.cache
+E:\期末考试复习\C#\画板程序\画板\画板\obj\x86\Debug\画板.Form1.resources
+E:\期末考试复习\C#\画板程序\画板\画板\obj\x86\Debug\画板.LineDesign.resources
+E:\期末考试复习\C#\画板程序\画板\画板\obj\x86\Debug\画板.Properties.Resources.resources
+E:\期末考试复习\C#\画板程序\画板\画板\obj\x86\Debug\画板.csproj.GenerateResource.cache
+E:\期末考试复习\C#\画板程序\画板\画板\obj\x86\Debug\画板.csproj.CoreCompileInputs.cache
+E:\期末考试复习\C#\画板程序\画板\画板\obj\x86\Debug\画板.exe
+E:\期末考试复习\C#\画板程序\画板\画板\obj\x86\Debug\画板.pdb
+E:\期末考试复习\C#\画板程序\画板\画板\bin\Debug\画板.exe
+E:\期末考试复习\C#\画板程序\画板\画板\bin\Debug\画板.pdb
+E:\期末考试复习\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\bin\Debug\画板.exe
+E:\期末考试复习\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\bin\Debug\画板.pdb
+E:\期末考试复习\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.csprojAssemblyReference.cache
+E:\期末考试复习\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.Form1.resources
+E:\期末考试复习\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.LineDesign.resources
+E:\期末考试复习\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.Properties.Resources.resources
+E:\期末考试复习\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.csproj.GenerateResource.cache
+E:\期末考试复习\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.csproj.CoreCompileInputs.cache
+E:\期末考试复习\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.exe
+E:\期末考试复习\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.pdb
+E:\大二上学期\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\bin\Debug\画板.exe
+E:\大二上学期\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\bin\Debug\画板.pdb
+E:\大二上学期\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.csprojAssemblyReference.cache
+E:\大二上学期\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.Form1.resources
+E:\大二上学期\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.LineDesign.resources
+E:\大二上学期\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.Properties.Resources.resources
+E:\大二上学期\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.csproj.GenerateResource.cache
+E:\大二上学期\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.csproj.CoreCompileInputs.cache
+E:\大二上学期\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.exe
+E:\大二上学期\C#\3543+张浩涵+实验2+画图工具\我的画板\画板程序\画板\画板\obj\x86\Debug\画板.pdb
